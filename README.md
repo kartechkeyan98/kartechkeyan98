@@ -3,10 +3,13 @@
 ## 🚀 About Me
 
 <div style="text-align: justify; width=75%">
-I am Kartikeyan Iyer, currently a recent graduate from IIT Kanpur (IITK Y20 batch). I enjoy my time learning about recent trends in Deep Learning and applying them in domain specific problems.<br>
-I am pretty average when it comes to being active in any form of social media and a certified noob when it comes to GitHub, but that won't stop me from posting my projects here. <br>
-I get into an obsession when it comes to linear algebra, hence my obsession to develop a library of linear algebra subroutines and learning the algos that go along with it. 
-I'm also an advocate of building things from scratch, hence a bunch of projects which deal with that.
+I am Kartikeyan Iyer, a graduate from IIT Kanpur (IITK Y20 batch) from the dept of Electrical Engineering (EE).<br>
+I enjoy my time learning about machinery, any machinery infact, including softwares, libraries and packages, what I have been
+into recently. You'll find alot of repos which contain self made libraries encomapassing the knowledge I've gained.<br><br>
+
+I am also an anime enthusiast and devote a little too much time for that as well, you're welcome to discuss that with me
+anytime. I'll always have something for you.
+
 </div>
 
 
